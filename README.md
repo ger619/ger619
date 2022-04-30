@@ -18,7 +18,7 @@
         funFacts: ['I have 1+ years of remote work experience with devs
         from all over the world']
         }
-</script>
+
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ger619)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ger619)](https://github.com/anuraghazra/github-readme-stats)
