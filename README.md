@@ -4,7 +4,7 @@
 >#### Remote Full-stack web developer ready for adventure
 
 
-- A little more about Abol Ger
+A little more about Abol Ger
 
 
 
