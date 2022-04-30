@@ -15,8 +15,7 @@
         code: [JavaScript, React, Redux, Ruby on Rails, Python, Django, Semantic UI, Bootstrap,Tailwind CSS],
         askMeAbout: [Hiking, Photography, Philanthropy, ],
         challenge: "I am honing my JavaScript and React skills and picking up Ruby",
-        funFacts: ['I have 1+ years of remote work experience with devs
-        from all over the world']
+        funFacts: "I have 1+ years of remote work experience with devs from all over the world"
         }
 
 
