@@ -3,9 +3,9 @@
 > print(" hi there \\o/ ") 
 
 
-const Abol Ger = {
-lookingFor: "Front-end developer" || "Full-stack web developer",
-pronouns: ["He", "Him"],
+const Abol Ger = { <br>
+lookingFor: "Front-end developer" || "Full-stack web developer", <br>
+pronouns: ["He", "Him"], <br>
 code: [JavaScript, React, Redux, Ruby on Rails, Python, Django, Semantic UI, Bootstrap,
 Tailwind CSS],
 askMeAbout: [Hiking, Photography, Philanthropy, ],
