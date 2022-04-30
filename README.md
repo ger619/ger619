@@ -7,9 +7,9 @@ const Abol Ger = { <br>
 lookingFor: "Front-end developer" || "Full-stack web developer", <br>
 pronouns: ["He", "Him"], <br>
 code: [JavaScript, React, Redux, Ruby on Rails, Python, Django, Semantic UI, Bootstrap,
-Tailwind CSS],
-askMeAbout: [Hiking, Photography, Philanthropy, ],
-challenge: "I am honing my JavaScript and React skills and picking up Ruby",
+Tailwind CSS],<br>
+askMeAbout: [Hiking, Photography, Philanthropy, ],<br>
+challenge: "I am honing my JavaScript and React skills and picking up Ruby",<br>
 funFacts: ['I have 1+ years of remote work experience with devs
 from all over the world',
 'dog lover']
