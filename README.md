@@ -1,6 +1,6 @@
-### Hi there 👋
+# Hi there 👋
 
-## print(" hi there \\o/ ") 
+> print(" hi there \\o/ ") 
 
 
 const Abol Ger = {
