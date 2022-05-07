@@ -10,12 +10,12 @@
 
 
 
-A little more about Abol Ger
+### Abol Ger is open to new opportunities and to new challenges.
 
 
     
-        const AbolGer = { 
-        lookingFor: "Front-end developer" || "Full-stack web developer", 
+        Const AbolGer = {
+        lookingFor: "Front-end developer" || "Full-stack web developer", `
         pronouns: ["He", "Him"], 
         code: [JavaScript, Ruby on Rails, Elixir, Python, Bootstrap, Tailwind CSS],
         askMeAbout: [Hiking, Photography, Philanthropy, ],
