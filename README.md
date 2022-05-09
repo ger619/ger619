@@ -10,7 +10,7 @@
 
 
 
-### Abol Ger is open to new opportunities and to new challenges.
+### Abol Ger is a Full-stack Web Developer open to new opportunities and to new challenges.
 
 
     
