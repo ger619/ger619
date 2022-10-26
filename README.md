@@ -15,8 +15,8 @@
 
 ## Link to Portfolio
 
-> Feel free to check the [Portfolio-link](https://ger619.github.io/Portfolio-mobile-version/).
-> [Portfolio Revamp](https://eloquent-semolina-600dc6.netlify.app/)
+> Feel free to check the
+> [Portfolio-link](https://eloquent-semolina-600dc6.netlify.app/)
 
 
     
