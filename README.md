@@ -39,10 +39,5 @@
 
 <h2 align="left">Certificates & Licenses</h2>
 
- <img src="https://user-images.githubusercontent.com/9010615/202282952-bf4113a2-5c54-472d-b966-c4edb470dea3.png" width="75px" href="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/49818021" target="_blank"/> <img src="https://user-images.githubusercontent.com/9010615/202282952-bf4113a2-5c54-472d-b966-c4edb470dea3.png" width="75px"/>
- 
-
-
-
-
+ <img src="https://user-images.githubusercontent.com/9010615/202282952-bf4113a2-5c54-472d-b966-c4edb470dea3.png" width="120px" href="https://www.credential.net/be28982a-1c43-404b-b1ac-21a21f24d555?record_view=true#gs.ies96n" target="_blank"/><img src="https://user-images.githubusercontent.com/9010615/202286474-5a3772c9-3b02-4d14-b5a8-855b9e7ec806.png" width="120px" href="https://www.credential.net/be28982a-1c43-404b-b1ac-21a21f24d555?record_view=true#gs.ies96n" target="_blank"/><img src="https://user-images.githubusercontent.com/9010615/202287061-10d82b7a-aa3b-49a8-9a90-8c866de77326.png" width="120px" href="https://www.credential.net/be28982a-1c43-404b-b1ac-21a21f24d555?record_view=true#gs.ies96n" target="_blank"/><img src="https://user-images.githubusercontent.com/9010615/202288304-647f68e1-19da-4ace-a5e6-a8a605e6f86d.png" width="120px" href="https://www.credential.net/be28982a-1c43-404b-b1ac-21a21f24d555?record_view=true#gs.ies96n" target="_blank"/><img src="https://user-images.githubusercontent.com/9010615/202288267-506ad556-4db8-4a4c-b539-9910e0e047e2.png" width="120px" href="https://www.credential.net/be28982a-1c43-404b-b1ac-21a21f24d555?record_view=true#gs.ies96n" target="_blank"/><img src="https://user-images.githubusercontent.com/9010615/202289832-cefae4b0-f687-47a9-b0dc-b19348b437aa.png" width="120px" href="https://www.credential.net/be28982a-1c43-404b-b1ac-21a21f24d555?record_view=true#gs.ies96n" target="_blank"/>
 
