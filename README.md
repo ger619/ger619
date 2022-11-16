@@ -18,7 +18,6 @@
 > Feel free to check the
 > [Portfolio-link](https://eloquent-semolina-600dc6.netlify.app/)
 
-
     
         Const AbolGer = {
         lookingFor: "Front-end developer" || "Full-stack web developer", `
@@ -39,9 +38,10 @@
 
 
 <h2 align="left">Certificates & Licenses</h2>
-<p align="left">
 
-</p>
+ <img src="https://user-images.githubusercontent.com/9010615/202282952-bf4113a2-5c54-472d-b966-c4edb470dea3.png" width="75px" href="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/49818021" target="_blank"/> <img src="https://user-images.githubusercontent.com/9010615/202282952-bf4113a2-5c54-472d-b966-c4edb470dea3.png" width="75px"/>
+ 
+
 
 
 
