@@ -26,7 +26,7 @@
         code: [HTML/CSS, JavaScript, Ruby, Ruby on Rails],
         askMeAbout: [Hiking, Photography, Philanthropy, ],
         challenge: "I am honing my JavaScript and React skills and picking up Ruby",
-        funFacts: "I have 1+ years of remote work experience with devs from all over the world",
+        funFacts: "I have 2+ years of remote work experience with devs from all over the world",
         
         }
 
