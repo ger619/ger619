@@ -20,12 +20,12 @@
 
     
         Const AbolGer = {
-        lookingFor: "Front-end developer" || "Full-stack web developer", `
+        lookingFor: "Back-end developer" || "Full-stack web developer", `
         pronouns: ["He", "Him"], 
-        availability: "Immediately",
+        availability: "1 month",
         code: [HTML/CSS, JavaScript, Ruby, Ruby on Rails],
         askMeAbout: [Hiking, Photography, Philanthropy, ],
-        challenge: "I am honing my JavaScript and React skills and picking up Ruby",
+        challenge: "I am Ruby on Rails Developer, I love Ruby",
         funFacts: "I have 3+ years of remote work experience with devs from all over the world",
         
         }
