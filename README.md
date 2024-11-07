@@ -18,6 +18,7 @@
 > Feel free to check the
 > [Portfolio-link](https://abol-ger-01.netlify.app)
 
+
     
         Const AbolGer = {
         lookingFor: "Back-end developer" || "Full-stack web developer", `
@@ -31,10 +32,11 @@
         }
 
  
-
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ger619&show_icons=true) 
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ger619\&layout=compact)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ger619)](https://github.com/anuraghazra/github-readme-stats) 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ger619&show_icons=true) 
+
+
 
 
 <h2 align="left">Certificates & Licenses</h2>
