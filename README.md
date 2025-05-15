@@ -4,8 +4,8 @@
 
 >#### Remote Full-stack web developer ready for adventure 
 
-![](https://visitor-badge.glitch.me/badge?page_id=ger619)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ger619&label=Profile%20views&color=0e75b6&style=flat" alt="ger619" /> </p>
 
 
 
@@ -35,6 +35,12 @@
 ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ger619\&layout=compact)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ger619)](https://github.com/anuraghazra/github-readme-stats) 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ger619&show_icons=true) 
+
+
+## 📈 GitHub Contribution Graph:
+<div align="left" style="width: 100%;">
+    <img height="300px" style="width: 100%;" src="https://github-readme-activity-graph.vercel.app/graph?username=ger619&theme=minimal"/>
+</div>
 
 
 
