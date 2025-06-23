@@ -26,7 +26,7 @@
             code: [HTML/CSS, JavaScript, Ruby, Ruby on Rails],
             askMeAbout: [Hiking, Photography, Philanthropy, ],
             challenge: "I am Ruby on Rails Developer, I love Ruby",
-            funFacts: "I have 3+ years of remote work experience with devs from all over the world",
+            funFacts: "I have 4+ years of remote work experience with devs from all over the world",
         
         }
 
