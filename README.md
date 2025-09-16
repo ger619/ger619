@@ -30,16 +30,31 @@
         
         }
 
- 
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ger619\&layout=compact)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ger619)](https://github.com/anuraghazra/github-readme-stats) 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ger619&show_icons=true) 
+ <!-- WakaTime stats -->
+<picture>
+  <source srcset="https://github-readme-stats.vercel.app/api/wakatime?username=ger619&layout=compact&theme=dark" media="(prefers-color-scheme: dark)">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ger619&layout=compact&theme=default" alt="WakaTime stats">
+</picture>
+
+<!-- Top Langs -->
+<picture>
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ger619&theme=dark" media="(prefers-color-scheme: dark)">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ger619&theme=default" alt="Top Langs">
+</picture>
+
+<!-- GitHub stats -->
+<picture>
+  <source srcset="https://github-readme-stats.vercel.app/api?username=ger619&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)">
+  <img src="https://github-readme-stats.vercel.app/api?username=ger619&show_icons=true&theme=default" alt="GitHub stats">
+</picture>
+
 
 
 ## 📈 GitHub Contribution Graph:
-<div align="left" style="width: 100%;">
-    <img height="300px" style="width: 100%;" src="https://github-readme-activity-graph.vercel.app/graph?username=ger619&theme=minimal"/>
-</div>
+<picture>
+  <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=ger619&theme=github-dark" media="(prefers-color-scheme: dark)">
+  <img height="300px" style="width: 100%;" src="https://github-readme-activity-graph.vercel.app/graph?username=ger619&theme=minimal" alt="GitHub Contribution Graph"/>
+</picture>
 
 
 
