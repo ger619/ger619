@@ -11,7 +11,7 @@
 
 
 
-### Abol Ger is a Project Manager / Full-stack Web Developer open to new opportunities and new challenges.
+### Abol Ger is a Project Manager / Senior Full-stack Developer open to new opportunities and new challenges.
 
 ## Link to Portfolio
 
@@ -26,7 +26,7 @@
             code: [HTML/CSS, JavaScript, Ruby, Ruby on Rails, Elixir, Phoenix Live],
             askMeAbout: [Hiking, Photography, Philanthropy, ],
             challenge: "I am Ruby on Rails Developer, I love Ruby",
-            funFacts: "I have 4+ years of remote work experience with devs from all over the world",
+            funFacts: "I have 5+ years of remote work experience with devs from all over the world",
         
         }
 
